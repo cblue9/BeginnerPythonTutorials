@@ -1,2 +1,2 @@
 # BeginnerPythonTutorials
-Here are applicatin tutorials for beginners in Python! 
+Here are application tutorials for beginners in Python! 
